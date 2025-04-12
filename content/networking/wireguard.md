@@ -1,0 +1,1 @@
+it's a network tunneling protocol for creating encrypted communication channels
